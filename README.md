@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0ea9e65-066c-4126-b734-f7bc99b8e2aa/deploy-status)](https://app.netlify.com/sites/sparkling-stroopwafel-a9182a/deploys)
